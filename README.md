@@ -3,7 +3,7 @@ research repository
 here is my scratch program.
 https://scratch.mit.edu/projects/720954671/editor
 
-IN my past i did programs in c language but when i starting my coding in python.so, i experienced that is easy the c language
+IN my past i did programs in c language but when i starting my coding in python.so, i experienced that is easy then c language
 
 At first i took the help from tutors in our campus and also from youtube.
 it help me to give knowledge of basic python.
