@@ -15,4 +15,4 @@ i submitted two files in the research.
  
 IN 20220674 there are three codes which are basic.
 
-In assignment name of file there are 2 codes which are intresting but it took hour of work to solve error.
+In assignment name of file there are 2 codes which are intresting but it took hours to solve error.
