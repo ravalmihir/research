@@ -1,4 +1,3 @@
-
 #program to make dictonery of 2 teams and their wins and losses and gives winning percentage of team which you entered in output.
 
 #from ast import Break
