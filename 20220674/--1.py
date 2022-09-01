@@ -10,4 +10,4 @@ E=float(input("enter bthe fifth subject marks"))
 #add all of the marks of subjects and divide it by number of subjecs.
 average=(A+B+C+D+E)/5
 print ("Average marks=",average)
-prpogram is ready. 
+#prpogram is ready. 
