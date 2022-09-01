@@ -1,5 +1,4 @@
-#program which reads 3 number and arrange them in ascending order.
-
+#program which reads 3 number and arrange them in ascending order. 
 x=int(input("enter the first no:"))
 y=int(input("enter the second no:"))
 z=int(input("enter the third no:"))
@@ -7,6 +6,7 @@ z=int(input("enter the third no:"))
 min=0
 mid=0
 max=0
+#main logic of this program is in the if and else statement.
 
 if (x<y and x<z):
     if(y<z):
