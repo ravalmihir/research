@@ -7,7 +7,7 @@ C=float(input("enter bthe third subject marks"))
 D=float(input("enter bthe fourth subject marks"))
 E=float(input("enter bthe fifth subject marks"))
 #this is the formula of finding average. 
-#add all of the marks of subjects and divide it by number of subjecs.
+#add all of the marks of subjects and divide it by number of subjects.
 average=(A+B+C+D+E)/5
 print ("Average marks=",average)
 #prpogram is ready. 
